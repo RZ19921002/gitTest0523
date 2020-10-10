@@ -10,5 +10,5 @@ import javax.activation.MailcapCommandMap;
 public class hello {
     public static void main(String[] args) {
         System.out.println("java");
-    }
+    }//你的java你做主
 }
