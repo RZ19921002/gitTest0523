@@ -10,4 +10,6 @@ public class hi {
         System.out.println("hi");
     }
 //注释
+//注释1
+    //注释2
 }
